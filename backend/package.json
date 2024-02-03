@@ -1,0 +1,11 @@
+{
+  "name": "medicalapplication",
+  "version": "1.0.0",
+  "description": "A simple website for hospitals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sangamesh VU",
+  "license": "ISC"
+}
